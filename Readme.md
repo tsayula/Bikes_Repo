@@ -3,7 +3,7 @@
 # Austin Business Comparison Analysis
 # Comparing 2 Markets
 
-**Author**: [Mark Rubin, Lera Tsayukova]
+**Collaborators**: [Mark Rubin, Lera Tsayukova]
 
 ## Overview
 
