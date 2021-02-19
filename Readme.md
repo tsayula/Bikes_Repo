@@ -39,14 +39,15 @@ This analysis leads to 3 conclusions:
 
 - **The market for bike shops in Austin is already saturated.
 - **There are at least 5 nieighborhood markets which could benefit from a local pizza shop!
-- **Based on GeoData there is at least one zipcode in Austin that could net great potential profits!
-
+- **There is at least two zipcodes in Austin which lack any small business pizza parlors at all.
+- 
 ### Next Steps
 
 More involved analyses could yield additional insights.
-- **
-- **
-- **
+- **Implement Geopandas modeling, use Census data 
+- **Acquire financial data in targeted zip codes to help make better predictions
+- **Broaden our query to determine the best Retail store or Restaurant Type to open. 
+
 
 ## For More Information
 
