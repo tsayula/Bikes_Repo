@@ -1,195 +1,245 @@
 ,business_id,biz_name,biz_rating,biz_review_count,biz_zipcode
-0,-kr42hgTb3_SlQqW5xxywQ,Bull And Bowl,5.0,1,78701
+0,raXi6598v97VVJGxuet_ZQ,Cucina on 35th,4.0,217,78703
 1,vo1MjyIvHbAJ93PasKHIRg,The Grove Wine Bar & Kitchen,4.0,288,78701
-2,8sEbM_ACHUbBsZ-TRZFXWA,Home Slice Pizza,4.5,449,78751
+2,_Y5GEb-PJvogHYUYuVJtmw,Pedroso's Pizza,5.0,1,78757
 3,ac1jxd_s57WrIv0NS_TmTA,Shortie’s Pizza & Grinders,4.5,16,78757
-4,raXi6598v97VVJGxuet_ZQ,Cucina on 35th,4.0,217,78703
-5,lnxDPi7QcCqp733mTOJcZA,Bufalina Due,4.0,124,78757
+4,GZfHsTQAabxdXB_z30h6kw,DeSano Pizzeria Napoletana,4.5,133,78701
+5,Dc96Pu8n9FRIIMPW3HPGcw,i Fratelli Pizza Downtown Austin,4.5,46,78701
 6,v87I5i4XxiCr9Ihiqkbc4A,The Grove Wine Bar & Kitchen,4.0,498,78746
-7,Dc96Pu8n9FRIIMPW3HPGcw,i Fratelli Pizza Downtown Austin,4.5,46,78701
-8,GZfHsTQAabxdXB_z30h6kw,DeSano Pizzeria Napoletana,4.5,133,78701
-9,skvuuJVurCYV6J9QcAC0SA,Il Brutto,4.0,274,78702
-10,Vlz20mD_QeTxmroSLZ9C0w,Cipollina,3.5,277,78703
-11,LXQiHzcMUxm4hp36v_Ah_w,The Jackalope,3.5,967,78701
-12,_Y5GEb-PJvogHYUYuVJtmw,Pedroso's Pizza,5.0,1,78757
-13,cM-qEu8khiRs_qzfGQsUPQ,Bufalina,4.0,564,78702
-14,U9p0G4OOUWP425Ww8FHaGQ,Little Deli & Pizzeria,4.5,1208,78757
-15,YusLBQYjRHVgxgmFKEA7gw,Sammataro,4.5,7,78746
-16,8RPIjybMh5Eg90eVsv3fRQ,Via 313 Pizza - North Campus,4.5,577,78705
-17,VobyVz_hbGNapYUfNDGyHw,Little Deli & Pizzeria,5.0,45,78723
-18,1Eq16r_MSnvPsnIykBdy9w,Home Slice Pizza,4.5,3784,78704
-19,K6Xm4kI1I2HPssM9FgXNsA,Via 313 Pizza - West 6th,4.5,718,78701
-20,ZKUsfxFjMlXif8yPbYAP7A,Tony C's Pizza & Beer Garden,4.5,31,78757
-21,J0oTYJx-dGn5yk926s6eGw,DeSano Pizzeria Napoletana,4.5,727,78757
-22,yPpHMQ-QJxEEOor9C5Fl_A,Numero28,4.0,409,78701
-23,M2gm902KkuZNXPudMeO1hg,Cidercade Austin,4.5,68,78704
-24,_njeaLgMzbaVT5VGUb_YTg,40 North,4.5,220,78703
-25,TdnpqCVMqOQKf-3S2Kb_PA,Moody's Kitchen And Bar,4.0,8,78705
-26,j3CWjH0XtesbbDZFVq3c7Q,Pinthouse Pizza,4.0,1038,78756
-27,8UsGtGEoizcTTtYoRTPEsw,Dough Boys,5.0,16,78702
-28,oAa1My9qUpw6Zss2Ye-1Fg,Taverna,3.5,864,78701
-29,mUPGTM4KZCyDpkqsZ-eKsg,Austin Beer Garden Brewing Company,4.0,695,78704
-30,-B7FSfGvyIgbuANlVWMtIw,Oddwood Ales,4.5,82,78723
-31,ojHIGVvaz3koIzgnrCb21Q,ASTI Trattoria,3.5,420,78751
-32,8yWbiBG_nGm9XGklAtssUw,The Backspace,4.0,672,78701
-33,0dIF4OMuWzq1ltvBVb-WeQ,Enoteca Vespaio,4.0,812,78704
-34,r7lqPcx9h9hluN_YLsFsew,360 UNO,4.0,278,78746
-35,rwm4sZS7IuCqhAq9qCBfag,Via 313 Pizza - Rainey Street,4.5,413,78701
-36,cbfgoMR_UQ9Rm5O3J1erKQ,Marye's Gourmet Pizza,4.5,174,78746
-37,rFSbSKU4nxVkX4wV_pbsCA,MOD Pizza,4.0,234,78723
-38,OfgCuP2QN165d-EsrCCIYg,Arpeggio Grill,4.0,775,78752
-39,R5lZv6sfLOHJESP2CccNqw,Cane Rosso,4.0,350,78745
-40,TqIa65mfKcbZA-a_Q2TJjA,Pizza On Point,4.5,34,78702
-41,VJDXjHHahRU3P_Ultl7-Yw,North Italia,4.0,1293,78758
-42,e5jRXtNqkJSUy7Aez_1IaA,Backspace Pizza,4.0,20,78757
-43,q1C3m4ssFeN401uAgL1O6A,The Pizza Press,4.0,182,78705
-44,AAkz8Wd-qbuMSzomqND4iQ,Local Slice II,4.5,117,78754
-45,XSfZSHdhyCLgVbomTnmadw,South Flo Pizza In H-E-B,4.0,23,78751
-46,b8CI9JbUi7hkBe4cr39bvQ,MOD Pizza,4.0,94,78746
-47,GYRsTbwNyqWjbJT11a7PHg,Cafe Bistro,4.0,105,78746
-48,xdWHz4mqq1Htarg3dLOKBw,Li'l Nonna's,4.5,188,78745
-49,EF0IqhJph_HNloXXqlVvLA,Austin Terrier,4.0,352,78731
+7,M2gm902KkuZNXPudMeO1hg,Cidercade Austin,4.5,68,78704
+8,Vlz20mD_QeTxmroSLZ9C0w,Cipollina,3.5,277,78703
+9,lnxDPi7QcCqp733mTOJcZA,Bufalina Due,4.0,124,78757
+10,LXQiHzcMUxm4hp36v_Ah_w,The Jackalope,3.5,967,78701
+11,8sEbM_ACHUbBsZ-TRZFXWA,Home Slice Pizza,4.5,449,78751
+12,cM-qEu8khiRs_qzfGQsUPQ,Bufalina,4.0,564,78702
+13,U9p0G4OOUWP425Ww8FHaGQ,Little Deli & Pizzeria,4.5,1207,78757
+14,YusLBQYjRHVgxgmFKEA7gw,Sammataro,4.5,7,78746
+15,8RPIjybMh5Eg90eVsv3fRQ,Via 313 Pizza - North Campus,4.5,577,78705
+16,skvuuJVurCYV6J9QcAC0SA,Il Brutto,4.0,274,78702
+17,K6Xm4kI1I2HPssM9FgXNsA,Via 313 Pizza - West 6th,4.5,718,78701
+18,VobyVz_hbGNapYUfNDGyHw,Little Deli & Pizzeria,5.0,45,78723
+19,_njeaLgMzbaVT5VGUb_YTg,40 North,4.5,220,78703
+20,J0oTYJx-dGn5yk926s6eGw,DeSano Pizzeria Napoletana,4.5,727,78757
+21,yPpHMQ-QJxEEOor9C5Fl_A,Numero28,4.0,409,78701
+22,ZKUsfxFjMlXif8yPbYAP7A,Tony C's Pizza & Beer Garden,4.5,31,78757
+23,j3CWjH0XtesbbDZFVq3c7Q,Pinthouse Pizza,4.0,1039,78756
+24,1Eq16r_MSnvPsnIykBdy9w,Home Slice Pizza,4.5,3784,78704
+25,oAa1My9qUpw6Zss2Ye-1Fg,Taverna,3.5,864,78701
+26,8UsGtGEoizcTTtYoRTPEsw,Dough Boys,5.0,16,78702
+27,mUPGTM4KZCyDpkqsZ-eKsg,Austin Beer Garden Brewing Company,4.0,695,78704
+28,ojHIGVvaz3koIzgnrCb21Q,ASTI Trattoria,3.5,420,78751
+29,-B7FSfGvyIgbuANlVWMtIw,Oddwood Ales,4.5,82,78723
+30,r7lqPcx9h9hluN_YLsFsew,360 UNO,4.0,278,78746
+31,8yWbiBG_nGm9XGklAtssUw,The Backspace,4.0,672,78701
+32,0dIF4OMuWzq1ltvBVb-WeQ,Enoteca Vespaio,4.0,812,78704
+33,cbfgoMR_UQ9Rm5O3J1erKQ,Marye's Gourmet Pizza,4.5,174,78746
+34,rFSbSKU4nxVkX4wV_pbsCA,MOD Pizza,4.0,234,78723
+35,OfgCuP2QN165d-EsrCCIYg,Arpeggio Grill,4.0,775,78752
+36,VJDXjHHahRU3P_Ultl7-Yw,North Italia,4.0,1293,78758
+37,TdnpqCVMqOQKf-3S2Kb_PA,Moody's Kitchen And Bar,3.5,10,78705
+38,R5lZv6sfLOHJESP2CccNqw,Cane Rosso,4.0,350,78745
+39,TqIa65mfKcbZA-a_Q2TJjA,Pizza On Point,4.5,34,78702
+40,tnyE5-KttYvlDd_-bzFpnw,Tilford's Wood Fired Pizza,5.0,19,78704
+41,AAkz8Wd-qbuMSzomqND4iQ,Local Slice II,4.5,117,78754
+42,b8CI9JbUi7hkBe4cr39bvQ,MOD Pizza,4.0,94,78746
+43,XSfZSHdhyCLgVbomTnmadw,South Flo Pizza In H-E-B,4.0,23,78751
+44,GYRsTbwNyqWjbJT11a7PHg,Cafe Bistro,4.0,105,78746
+45,xdWHz4mqq1Htarg3dLOKBw,Li'l Nonna's,4.5,188,78745
+46,EF0IqhJph_HNloXXqlVvLA,Austin Terrier,4.0,352,78731
+47,q1C3m4ssFeN401uAgL1O6A,The Pizza Press,4.0,183,78705
+48,8r9zxT9XWaR-vl_b8DgPPg,Brooklyn Pizzeria & Bar,4.0,50,78704
+49,mbNRIX5ROAzeDAmCVM_xzg,Via 313 Pizza - East Side,4.5,289,78702
 ,business_id,biz_name,biz_rating,biz_review_count,biz_zipcode
-0,mbNRIX5ROAzeDAmCVM_xzg,Via 313 Pizza - East Side,4.5,289,78702
-1,3qt66qa1OQWJheNXN0XYpg,Possum Pizza,5.0,33,78741
-2,xPfH5K1gQZj2IR0iV0a5Rg,MOD Pizza,4.0,198,78741
-3,8r9zxT9XWaR-vl_b8DgPPg,Brooklyn Pizzeria & Bar,4.0,50,78704
-4,hko1Bc-B0HhXmRBy__K99w,Phantasma Kitchen,4.5,53,78704
-5,8GusTJDbsUChxDYP677npg,Cannone Cucina Italiana,4.5,124,78704
-6,vICQBb0sAXKy-BIjuWZWIQ,CraigO's Pizza & Pastaria,3.5,119,78731
-7,FlTCiBHfrSM9rFj9a31O1g,East Side Pies,4.0,228,78751
-8,Z5I1wDa_KnZEWQ8JSeqL0A,BackDraft Pizzeria,4.5,290,78758
-9,8SnpSe6YXHXE-Jo66bYKMQ,Toss Pizzeria & Pub,4.0,355,78704
-10,5Pp4jCBSRe5bxQHhrcrcRQ,The Park on South Lamar,3.5,473,78704
-11,P8x-eXc5_lBwqf2rClKtuA,i Fratelli Pizza North - Austin,4.5,120,78759
+0,raXi6598v97VVJGxuet_ZQ,Cucina on 35th,4.0,217,78703
+1,vo1MjyIvHbAJ93PasKHIRg,The Grove Wine Bar & Kitchen,4.0,288,78701
+2,_Y5GEb-PJvogHYUYuVJtmw,Pedroso's Pizza,5.0,1,78757
+3,ac1jxd_s57WrIv0NS_TmTA,Shortie’s Pizza & Grinders,4.5,16,78757
+4,GZfHsTQAabxdXB_z30h6kw,DeSano Pizzeria Napoletana,4.5,133,78701
+5,Dc96Pu8n9FRIIMPW3HPGcw,i Fratelli Pizza Downtown Austin,4.5,46,78701
+6,v87I5i4XxiCr9Ihiqkbc4A,The Grove Wine Bar & Kitchen,4.0,498,78746
+7,M2gm902KkuZNXPudMeO1hg,Cidercade Austin,4.5,68,78704
+8,Vlz20mD_QeTxmroSLZ9C0w,Cipollina,3.5,277,78703
+9,lnxDPi7QcCqp733mTOJcZA,Bufalina Due,4.0,124,78757
+10,LXQiHzcMUxm4hp36v_Ah_w,The Jackalope,3.5,967,78701
+11,8sEbM_ACHUbBsZ-TRZFXWA,Home Slice Pizza,4.5,449,78751
+12,cM-qEu8khiRs_qzfGQsUPQ,Bufalina,4.0,564,78702
+13,U9p0G4OOUWP425Ww8FHaGQ,Little Deli & Pizzeria,4.5,1207,78757
+14,YusLBQYjRHVgxgmFKEA7gw,Sammataro,4.5,7,78746
+15,8RPIjybMh5Eg90eVsv3fRQ,Via 313 Pizza - North Campus,4.5,577,78705
+16,skvuuJVurCYV6J9QcAC0SA,Il Brutto,4.0,274,78702
+17,K6Xm4kI1I2HPssM9FgXNsA,Via 313 Pizza - West 6th,4.5,718,78701
+18,VobyVz_hbGNapYUfNDGyHw,Little Deli & Pizzeria,5.0,45,78723
+19,_njeaLgMzbaVT5VGUb_YTg,40 North,4.5,220,78703
+20,J0oTYJx-dGn5yk926s6eGw,DeSano Pizzeria Napoletana,4.5,727,78757
+21,yPpHMQ-QJxEEOor9C5Fl_A,Numero28,4.0,409,78701
+22,ZKUsfxFjMlXif8yPbYAP7A,Tony C's Pizza & Beer Garden,4.5,31,78757
+23,j3CWjH0XtesbbDZFVq3c7Q,Pinthouse Pizza,4.0,1039,78756
+24,1Eq16r_MSnvPsnIykBdy9w,Home Slice Pizza,4.5,3784,78704
+25,oAa1My9qUpw6Zss2Ye-1Fg,Taverna,3.5,864,78701
+26,8UsGtGEoizcTTtYoRTPEsw,Dough Boys,5.0,16,78702
+27,mUPGTM4KZCyDpkqsZ-eKsg,Austin Beer Garden Brewing Company,4.0,695,78704
+28,ojHIGVvaz3koIzgnrCb21Q,ASTI Trattoria,3.5,420,78751
+29,-B7FSfGvyIgbuANlVWMtIw,Oddwood Ales,4.5,82,78723
+30,r7lqPcx9h9hluN_YLsFsew,360 UNO,4.0,278,78746
+31,8yWbiBG_nGm9XGklAtssUw,The Backspace,4.0,672,78701
+32,0dIF4OMuWzq1ltvBVb-WeQ,Enoteca Vespaio,4.0,812,78704
+33,cbfgoMR_UQ9Rm5O3J1erKQ,Marye's Gourmet Pizza,4.5,174,78746
+34,rFSbSKU4nxVkX4wV_pbsCA,MOD Pizza,4.0,234,78723
+35,OfgCuP2QN165d-EsrCCIYg,Arpeggio Grill,4.0,775,78752
+36,VJDXjHHahRU3P_Ultl7-Yw,North Italia,4.0,1293,78758
+37,TdnpqCVMqOQKf-3S2Kb_PA,Moody's Kitchen And Bar,3.5,10,78705
+38,R5lZv6sfLOHJESP2CccNqw,Cane Rosso,4.0,350,78745
+39,TqIa65mfKcbZA-a_Q2TJjA,Pizza On Point,4.5,34,78702
+40,tnyE5-KttYvlDd_-bzFpnw,Tilford's Wood Fired Pizza,5.0,19,78704
+41,AAkz8Wd-qbuMSzomqND4iQ,Local Slice II,4.5,117,78754
+42,b8CI9JbUi7hkBe4cr39bvQ,MOD Pizza,4.0,94,78746
+43,XSfZSHdhyCLgVbomTnmadw,South Flo Pizza In H-E-B,4.0,23,78751
+44,GYRsTbwNyqWjbJT11a7PHg,Cafe Bistro,4.0,105,78746
+45,xdWHz4mqq1Htarg3dLOKBw,Li'l Nonna's,4.5,188,78745
+46,EF0IqhJph_HNloXXqlVvLA,Austin Terrier,4.0,352,78731
+47,q1C3m4ssFeN401uAgL1O6A,The Pizza Press,4.0,183,78705
+48,8r9zxT9XWaR-vl_b8DgPPg,Brooklyn Pizzeria & Bar,4.0,50,78704
+49,mbNRIX5ROAzeDAmCVM_xzg,Via 313 Pizza - East Side,4.5,289,78702
+,business_id,biz_name,biz_rating,biz_review_count,biz_zipcode
+0,xPfH5K1gQZj2IR0iV0a5Rg,MOD Pizza,4.0,198,78741
+1,FlTCiBHfrSM9rFj9a31O1g,East Side Pies,4.0,229,78751
+2,hko1Bc-B0HhXmRBy__K99w,Phantasma Kitchen,4.5,53,78704
+3,rwm4sZS7IuCqhAq9qCBfag,Via 313 Pizza - Rainey Street,4.5,413,78701
+4,vICQBb0sAXKy-BIjuWZWIQ,CraigO's Pizza & Pastaria,3.5,119,78731
+5,5Pp4jCBSRe5bxQHhrcrcRQ,The Park on South Lamar,3.5,473,78704
+6,Z5I1wDa_KnZEWQ8JSeqL0A,BackDraft Pizzeria,4.5,290,78758
+7,P8x-eXc5_lBwqf2rClKtuA,i Fratelli Pizza North - Austin,4.5,120,78759
+8,gKREdIgb5vB844iOtbzqBA,Pinthouse Pizza,4.5,588,78704
+9,vrv0mJUCR6H5_TwAhTD4jQ,Pizzeria Grata,4.5,67,78745
+10,e5jRXtNqkJSUy7Aez_1IaA,Backspace Pizza,4.0,20,78757
+11,8GusTJDbsUChxDYP677npg,Cannone Cucina Italiana,4.5,124,78704
 12,15NX5oCQql7960hlK2Yb_w,The Meteor,3.5,55,78704
-13,vrv0mJUCR6H5_TwAhTD4jQ,Pizzeria Grata,4.5,67,78745
-14,gKREdIgb5vB844iOtbzqBA,Pinthouse Pizza,4.5,588,78704
-15,KzXeYr0LJWUr-Kt0l1ObnQ,Via 313 Pizza - Oak Hill,4.5,825,78735
-16,sxxeWFpxhU53lR1ndH6qzg,The Parlor,3.5,212,78751
-17,3k-PzE0bxllr9glPURSYtw,Roppolo’s Pizzeria West Campus,4.5,3,78705
-18,Z04A9LbZAjYv8u9fxFdnpA,Brooklyn Pie Co,3.5,19,78701
-19,CVxBZ4K41YGExcAPDhGrEg,Austin's Pizza 35th Street,3.0,38,78731
-20,tnyE5-KttYvlDd_-bzFpnw,Tilford's Wood Fired Pizza,5.0,19,78704
-21,lnG403wPUtZr7fxHETB3Rw,Craft Pride,4.0,476,78701
-22,g--_nYXocp_ZSDTMswlrqQ,Longhorn Pizza & Grill,2.0,81,78705
-23,QPii9neIvUFgXunqZ_WKpw,Conans Pizza North,4.0,337,78757
-24,7AFctw607BF-0gBxVht3Cg,Hoboken Pie,3.5,557,78701
+13,KzXeYr0LJWUr-Kt0l1ObnQ,Via 313 Pizza - Oak Hill,4.5,825,78735
+14,3k-PzE0bxllr9glPURSYtw,Roppolo’s Pizzeria West Campus,4.5,3,78705
+15,3qt66qa1OQWJheNXN0XYpg,Possum Pizza,5.0,33,78741
+16,Z04A9LbZAjYv8u9fxFdnpA,Brooklyn Pie Co,3.5,19,78701
+17,CVxBZ4K41YGExcAPDhGrEg,Austin's Pizza 35th Street,3.0,38,78731
+18,g--_nYXocp_ZSDTMswlrqQ,Longhorn Pizza & Grill,2.0,81,78705
+19,QPii9neIvUFgXunqZ_WKpw,Conans Pizza North,4.0,336,78757
+20,7AFctw607BF-0gBxVht3Cg,Hoboken Pie,3.5,557,78701
+21,Tv0_XqTtO3kcnbqGrgLPJQ,Stony's Pizza,4.0,125,78701
+22,8SnpSe6YXHXE-Jo66bYKMQ,Toss Pizzeria & Pub,4.0,354,78704
+23,sxxeWFpxhU53lR1ndH6qzg,The Parlor,3.5,212,78751
+24,KyYhQZjysb0TYibMIjYeGw,East Side Pies,4.0,641,78702
 25,m7N6fF0ay8A8OHFActECow,The Onion,3.5,174,78701
-26,kHOI8apECknxdVDbG-foPg,Quattro Gatti Ristorante e Pizzeria,3.5,343,78701
-27,g-6qv5f2Y4mVrsDD3JRkuQ,BJ's Restaurant & Brewhouse,3.0,477,78759
-28,gXip--EE80jF-sqdk5Aghw,Bennu Coffee,4.0,711,78702
-29,eAifnc03bdAKyGN0MZm6_g,Roppolo's Pizzeria,3.5,438,78701
-30,p0vdkFUU05RCSE0aGXKT7w,Big Nonna's,5.0,26,78753
-31,TO54OXfj7o97Na9WDTPsZg,More Home Slice Pizza,4.5,512,78704
-32,KyYhQZjysb0TYibMIjYeGw,East Side Pies,4.0,641,78702
-33,V4N5heYXnJmUnGEZYa-zCA,Mandola's Italian,3.5,391,78749
-34,g0GZmcCP-v_-WRkE-xOECw,Jesta Pizza,4.0,1,78705
+26,g-6qv5f2Y4mVrsDD3JRkuQ,BJ's Restaurant & Brewhouse,3.0,477,78759
+27,gXip--EE80jF-sqdk5Aghw,Bennu Coffee,4.0,711,78702
+28,kHOI8apECknxdVDbG-foPg,Quattro Gatti Ristorante e Pizzeria,3.5,343,78701
+29,p0vdkFUU05RCSE0aGXKT7w,Big Nonna's,5.0,26,78753
+30,lnG403wPUtZr7fxHETB3Rw,Craft Pride,4.0,476,78701
+31,o6gcmFK-ZbSfGRkJuP98kQ,Craft Woodfire Pizza,4.5,12,78744
+32,V4N5heYXnJmUnGEZYa-zCA,Mandola's Italian,3.5,391,78749
+33,eAifnc03bdAKyGN0MZm6_g,Roppolo's Pizzeria,3.5,438,78701
+34,lRTGjg1rygCdTtM6pHDKaQ,MOD Pizza,4.0,201,78753
 35,Bh67FSOz3ZjUxORPmkOFKQ,Pieology Pizzeria,3.0,93,78723
 36,fBvQQUk1-V9IUA8PbuYFWg,Newk's Eatery,3.5,43,78701
-37,2bBSnkg6KQF4jq90IHWhHw,Niki's Pizza,3.5,70,78705
-38,lRTGjg1rygCdTtM6pHDKaQ,MOD Pizza,4.0,201,78753
+37,_blL4jU1424l1xTXBDqCSw,Southside Flying Pizza,1.0,1,78733
+38,2bBSnkg6KQF4jq90IHWhHw,Niki's Pizza,3.5,70,78705
 39,6wZgz7iNNmDdRrYSGYK7PA,Smart Flour Foods,4.5,13,78744
 40,99QWPoYEE_qcy4aV7r7ILQ,Giovanni's Pizza Stand,4.5,215,78704
-41,1HSNehrtbOSlOWMsfHylFw,Pizza Leon,5.0,23,78741
-42,_blL4jU1424l1xTXBDqCSw,Southside Flying Pizza,1.0,1,78733
-43,_33gXTh_rPfk_jDYZphP2g,Southside Flying Pizza,3.5,120,78702
-44,Tv0_XqTtO3kcnbqGrgLPJQ,Stony's Pizza,4.0,125,78701
-45,o6gcmFK-ZbSfGRkJuP98kQ,Craft Woodfire Pizza,4.5,12,78744
-46,Fb4ZlYipMkRY8o9I_CBE2A,Craigo's Pizza & Pastaria,4.0,206,78735
-47,p99DZXmdF7smudK9FnlC9A,Spartan Pizza,4.0,265,78702
-48,5UrIw2HJe8Lbf2A_20inLg,Trifecta On 3rd,3.5,82,78701
-49,hjmlhx0xoVY5dsQ9aZXO6Q,Flaming Pizza,4.0,146,78758
+41,_33gXTh_rPfk_jDYZphP2g,Southside Flying Pizza,3.5,121,78702
+42,1HSNehrtbOSlOWMsfHylFw,Pizza Leon,5.0,23,78741
+43,Fb4ZlYipMkRY8o9I_CBE2A,Craigo's Pizza & Pastaria,4.0,206,78735
+44,p99DZXmdF7smudK9FnlC9A,Spartan Pizza,4.0,265,78702
+45,5UrIw2HJe8Lbf2A_20inLg,Trifecta On 3rd,3.5,82,78701
+46,TO54OXfj7o97Na9WDTPsZg,More Home Slice Pizza,4.5,512,78704
+47,g0GZmcCP-v_-WRkE-xOECw,Jesta Pizza,4.0,1,78705
+48,hjmlhx0xoVY5dsQ9aZXO6Q,Flaming Pizza,4.0,146,78758
+49,K1Gqgf4kjHTzmt3Z6ghdtQ,Mangia Pizza,3.5,219,78758
 ,business_id,biz_name,biz_rating,biz_review_count,biz_zipcode
-0,K1Gqgf4kjHTzmt3Z6ghdtQ,Mangia Pizza,3.5,218,78758
+0,PceDd3uYY5VNBeI_zB2RBA,Newk's Eatery,4.0,341,78759
 1,t59Fbkf3xMXhmyfJJBmQmQ,Salvation Pizza - Rainey Street,3.0,159,78701
 2,QZ_d2uVvbDePrITBpok4Sg,Austin's Pizza,3.5,96,78731
-3,PceDd3uYY5VNBeI_zB2RBA,Newk's Eatery,4.0,341,78759
-4,N778WRas8hqZ_QiHymA1YA,Southside Flying Pizza,3.5,482,78704
+3,N778WRas8hqZ_QiHymA1YA,Southside Flying Pizza,3.5,482,78704
+4,tP08dk39lScqk6VPjOTXaQ,California Pizza Kitchen at Barton Creek Square,3.0,137,78746
 5,IH6RfGAA0GbE8Otedag3QQ,Roppolo's Pizzeria on Wheels,3.5,22,78701
-6,NOi0w33fTGghQvF32lrA8w,Pizza Day,3.5,197,78759
-7,K6734lBTMBeZFcXozPBsOg,Stony's Pizza-Red River,4.0,20,78701
-8,EWhAVt5HIzIUk_WsVc88mQ,BJ's Restaurant & Brewhouse,3.0,412,78745
+6,EWhAVt5HIzIUk_WsVc88mQ,BJ's Restaurant & Brewhouse,3.0,412,78745
+7,4sL1g8eTNczy82LN8-QOmA,Pizza Patrón,4.0,7,78723
+8,K6734lBTMBeZFcXozPBsOg,Stony's Pizza-Red River,4.0,20,78701
 9,YYVJfFQl53Xgf75UXlTARg,Southside Flying Pizza,3.0,95,78704
-10,4sL1g8eTNczy82LN8-QOmA,Pizza Patrón,4.0,7,78723
-11,tP08dk39lScqk6VPjOTXaQ,California Pizza Kitchen at Barton Creek Square,3.0,137,78746
-12,q8-ml4KkoVMoeax5qvh0Hg,DoubleDave's Pizzaworks,4.0,16,78746
-13,LCyewI_7wrsro767VQ1whg,Kneaded Pleasures Cafe & Pizza,3.0,169,78731
+10,q8-ml4KkoVMoeax5qvh0Hg,DoubleDave's Pizzaworks,4.0,16,78746
+11,LCyewI_7wrsro767VQ1whg,Kneaded Pleasures Cafe & Pizza,3.0,169,78731
+12,1QAOeT3_LRe15V_DGSxocw,Domino's Pizza,2.0,22,78705
+13,horYo4q7UDs71-Cv80VEMg,California Pizza Kitchen at The Domain,3.0,242,78758
 14,gYIZEzeIgPNPNZsL9qbcvg,Jungle Island Family Entertainment Center,4.0,17,78741
 15,_bPgSHLemKqt656x3DpIFg,Hardwood Pizza,3.5,11,78701
-16,1QAOeT3_LRe15V_DGSxocw,Domino's Pizza,2.0,22,78705
-17,horYo4q7UDs71-Cv80VEMg,California Pizza Kitchen at The Domain,3.0,242,78758
-18,nwbRTrr3uaRFeUyFLgvufw,Austin's Pizza Westlake,3.0,40,78746
-19,JI2Nb1vvgtELvMA9JkIFDg,Littlefield Patio Cafe,2.5,23,78705
-20,jETzUeVgIzHRxQWlBp3Kbg,Cicis,2.0,20,78723
-21,AfKr3dRTKoPdXZIuvFhg3w,Cicis,4.0,26,78753
+16,NOi0w33fTGghQvF32lrA8w,Pizza Day,3.5,197,78759
+17,nwbRTrr3uaRFeUyFLgvufw,Austin's Pizza Westlake,3.0,40,78746
+18,AfKr3dRTKoPdXZIuvFhg3w,Cicis,4.0,26,78753
+19,jETzUeVgIzHRxQWlBp3Kbg,Cicis,2.0,20,78723
+20,jhrnoPW3Ywo5hEwvui8q3w,Russos NY Pizzeria,3.5,96,78759
+21,JI2Nb1vvgtELvMA9JkIFDg,Littlefield Patio Cafe,2.5,23,78705
 22,gP93NXPugvD6aF7LO_8LVQ,East Side Pies,2.5,15,78719
-23,OwNoyfrSdwUZ2ZH8lk-1kA,Rosalie Roppolo's Pizzeria,3.5,18,78701
-24,bOuivK3C0ENe76Gmot-N3A,Austin's Pizza South Lamar,3.0,157,78704
-25,e3xVtQXujOtVSS4zUeAKug,Austin's Pizza North Guad,2.0,17,78705
-26,jhrnoPW3Ywo5hEwvui8q3w,Russos NY Pizzeria,3.5,96,78759
-27,Vz0k0EGElVGiesGOatEIoQ,Conans Pizza South,3.0,206,78745
-28,KdnceJFz2LluXhsMpGwklQ,Famous Beer Crust Pizza,3.5,3,78701
-29,J3KyZu5uiCaDPSY_L2IiOQ,Paffuto Pizza,4.5,9,78702
-30,ictnXhW62fTB4j7WSuz5fg,Domenick's Pizzeria,4.5,2,78701
-31,N7pEz5cMEgQrT7AFLXECPg,Pizza Patron,5.0,1,78741
-32,E68MExv___tBzw_LtjOwYQ,DoubleDave's Pizzaworks,3.5,108,78758
-33,RQ382hisN9N2DSTY-LFi5w,512 Pizza & Subs,5.0,1,78702
-34,rJGFSq4WhVZKpOChogMhFw,Domino's Pizza,2.0,90,78705
-35,DdlIKVhv0srkdTnj41w1uw,Salvation Pizza,4.0,1,78719
+23,bOuivK3C0ENe76Gmot-N3A,Austin's Pizza South Lamar,3.0,158,78704
+24,e3xVtQXujOtVSS4zUeAKug,Austin's Pizza North Guad,2.0,17,78705
+25,N7pEz5cMEgQrT7AFLXECPg,Pizza Patron,5.0,1,78741
+26,Vz0k0EGElVGiesGOatEIoQ,Conans Pizza South,3.0,206,78745
+27,OwNoyfrSdwUZ2ZH8lk-1kA,Rosalie Roppolo's Pizzeria,3.5,18,78701
+28,J3KyZu5uiCaDPSY_L2IiOQ,Paffuto Pizza,4.5,9,78702
+29,KdnceJFz2LluXhsMpGwklQ,Famous Beer Crust Pizza,3.5,3,78701
+30,E68MExv___tBzw_LtjOwYQ,DoubleDave's Pizzaworks,3.5,108,78758
+31,ictnXhW62fTB4j7WSuz5fg,Domenick's Pizzeria,4.5,2,78701
+32,DdlIKVhv0srkdTnj41w1uw,Salvation Pizza,4.0,1,78719
+33,rJGFSq4WhVZKpOChogMhFw,Domino's Pizza,2.0,90,78705
+34,RQ382hisN9N2DSTY-LFi5w,512 Pizza & Subs,5.0,1,78702
+35,h61urFQyb2JhVFOnkBGkDA,Yaghi's New York Pizzeria,3.5,244,78749
 36,LhChmjAc0AqsHcYYYtw6Tg,Pizza Paradise,3.5,191,78758
-37,h61urFQyb2JhVFOnkBGkDA,Yaghi's New York Pizzeria,3.5,243,78749
+37,nhk7T_8bPn_uZ8_BOPFrxQ,Little Caesars Pizza,2.0,17,78723
 38,K9DIohDFYPWgZqvugFfpbg,Austin's Pizza - Greystone,1.0,1,78731
-39,nhk7T_8bPn_uZ8_BOPFrxQ,Little Caesars Pizza,2.0,17,78723
-40,0_mxIVwoovZB0e_LwqF8hA,Marco's Pizza,3.5,86,78759
-41,tBq37RadfDlH94h1-6hjCQ,Salvation Pizza Kitchen and Bar  - Rock Rose,2.5,177,78758
-42,mG_qM3bTNdAVkjaWUrkkZw,Papa John's Pizza,2.5,24,78758
+39,mG_qM3bTNdAVkjaWUrkkZw,Papa John's Pizza,2.5,24,78758
+40,tBq37RadfDlH94h1-6hjCQ,Salvation Pizza Kitchen and Bar  - Rock Rose,2.5,177,78758
+41,0_mxIVwoovZB0e_LwqF8hA,Marco's Pizza,3.5,86,78759
+42,5hXregLHPsOLxjq18vO5Ug,Villa Fresh Italian Kitchen,2.5,9,78746
 43,ARZDpjHbuoNu_e5197PhwQ,Papa John's Pizza,2.0,40,78701
 44,r3-quhlB-JKYZB_16LWXUw,Papa John's Pizza,2.5,27,78756
-45,5hXregLHPsOLxjq18vO5Ug,Villa Fresh Italian Kitchen,2.5,9,78746
-46,L4I11YwBOhk1EQHdIRoIHw,Chuck E. Cheese,3.0,43,78759
+45,L4I11YwBOhk1EQHdIRoIHw,Chuck E. Cheese,3.0,43,78759
+46,v7gn3zUGmrX5TLZGjkwGkg,Domino's Pizza,3.0,17,78746
 47,aXEXEJsc4eMDFI19MpDvjQ,Milano Pizza,3.5,184,78745
-48,v7gn3zUGmrX5TLZGjkwGkg,Domino's Pizza,3.0,17,78746
-49,8BLK539qdK0kir1adgCcbQ,Domino's Pizza,3.0,40,78723
+48,8BLK539qdK0kir1adgCcbQ,Domino's Pizza,3.0,40,78723
+49,aEBwiH33D62onynWMY-zCg,DoubleDave's Pizzaworks,3.0,100,78749
 ,business_id,biz_name,biz_rating,biz_review_count,biz_zipcode
-0,aEBwiH33D62onynWMY-zCg,DoubleDave's Pizzaworks,3.0,100,78749
-1,0mWeENbi_K6quJScN79VAQ,Austin's Pizza- William Cannon,3.0,79,78749
-2,JFeSTUoClEn1hj0-8vx6Ig,Domino's Pizza,3.0,9,78754
+0,1jAdMcbzdBUqXIbDNqaOtw,Wings To go,3.0,2,78753
+1,JFeSTUoClEn1hj0-8vx6Ig,Domino's Pizza,3.0,9,78754
+2,0mWeENbi_K6quJScN79VAQ,Austin's Pizza- William Cannon,3.0,79,78749
 3,uuhrPZlKNcUnaZtg9Eav4A,Pizzeria Paparazzi,1.5,35,78798
-4,1jAdMcbzdBUqXIbDNqaOtw,Wings To go,3.0,2,78753
+4,ZUwREYcG_Bws2dd0hnm1xQ,P.Za Kitchen,2.0,9,78759
 5,8gZArGU-Q1f52-TKXnim_A,Austin's Pizza Braker,3.0,98,78759
-6,jtuIu5zSb5W91co10EmvFQ,Domino's Pizza,2.0,26,78751
-7,ZUwREYcG_Bws2dd0hnm1xQ,P.Za Kitchen,2.0,9,78759
-8,JOswAkmPmycBYKBHU11-oA,Little Caesars Pizza,2.5,13,78702
-9,HT-e-H9TWtwnAIj_CfgNlg,Domino's Pizza,2.0,116,78741
-10,EtNKIIIy5HojTyTBkwMSrA,Mr Gatti's Pizza,2.0,53,78741
-11,koPEEsp5fVr5_l_vYYlNeA,Pizza Hut,2.5,63,78741
-12,WM4Ui56kQ2nZ7z3ZUqk0uw,Papa John's Pizza,3.0,4,78753
-13,2qPkAi8JPdoKUer-2IQvOw,Little Caesars,2.0,27,78753
-14,x13RBm34QIkIt8WyVnX2oA,Little Caesar's Pizza,2.5,17,78753
-15,G450g-rWOTe8X-sLLlGhhQ,Pizza Terra,2.0,1,78757
-16,wnxepgfZtJW2O7YqbIvKiw,Pizza Hut,1.5,29,78753
-17,cVJuDl4LQAgCUGVkh3lSzA,Pizza Hut,2.0,14,78704
-18,PfBK5SuGJ2STvTPIeDVXrQ,Taverna,1.0,1,78701
-19,dDLeeGVQGPPVWHeFw_0_hQ,Domino’s Pizza,2.5,3,78735
-20,I95FmaTTkeIaB5HWZBJdNA,Papa John's Pizza,3.0,40,78741
-21,CzmQjhWLo0DvrnqVaVyr5A,Domino's Pizza,3.0,57,78759
-22,ucJ9-X2ptyZV73jEzcuOCw,Papa John's Pizza,2.5,22,78750
+6,JOswAkmPmycBYKBHU11-oA,Little Caesars Pizza,2.5,13,78702
+7,WM4Ui56kQ2nZ7z3ZUqk0uw,Papa John's Pizza,3.0,4,78753
+8,HT-e-H9TWtwnAIj_CfgNlg,Domino's Pizza,2.0,116,78741
+9,EtNKIIIy5HojTyTBkwMSrA,Mr Gatti's Pizza,2.0,53,78741
+10,jtuIu5zSb5W91co10EmvFQ,Domino's Pizza,2.0,26,78751
+11,2qPkAi8JPdoKUer-2IQvOw,Little Caesars,2.0,27,78753
+12,koPEEsp5fVr5_l_vYYlNeA,Pizza Hut,2.5,63,78741
+13,x13RBm34QIkIt8WyVnX2oA,Little Caesar's Pizza,2.5,17,78753
+14,wnxepgfZtJW2O7YqbIvKiw,Pizza Hut,1.5,29,78753
+15,cVJuDl4LQAgCUGVkh3lSzA,Pizza Hut,2.0,14,78704
+16,dDLeeGVQGPPVWHeFw_0_hQ,Domino’s Pizza,2.5,3,78735
+17,G450g-rWOTe8X-sLLlGhhQ,Pizza Terra,2.0,1,78757
+18,I95FmaTTkeIaB5HWZBJdNA,Papa John's Pizza,3.0,40,78741
+19,PfBK5SuGJ2STvTPIeDVXrQ,Taverna,1.0,1,78701
+20,CzmQjhWLo0DvrnqVaVyr5A,Domino's Pizza,3.0,57,78759
+21,ucJ9-X2ptyZV73jEzcuOCw,Papa John's Pizza,2.5,22,78750
+22,3xh404ig9F2nE2S06rsYZg,Pizza Hut,2.0,17,78735
 23,hXwzorjetfEmcwMbRS887Q,Austin's Pizza Four Points,3.0,74,78730
-24,OKQ7RJS8wjUE_-pyYgVWKA,Little Caesars Pizza,2.0,22,78741
-25,nl5b0xmB_81f_O01WMCqZA,Little Caesars Pizza,1.5,45,78745
-26,3xh404ig9F2nE2S06rsYZg,Pizza Hut,2.0,17,78735
-27,ivbHnKU2CsYI891tkTRGaQ,Pizza Hut,1.5,22,78723
+24,nl5b0xmB_81f_O01WMCqZA,Little Caesars Pizza,1.5,45,78745
+25,OKQ7RJS8wjUE_-pyYgVWKA,Little Caesars Pizza,2.0,22,78741
+26,ivbHnKU2CsYI891tkTRGaQ,Pizza Hut,1.5,22,78723
+27,ztEZF1u_JJa8fVOLjftgTQ,Mr Gatti's Pizza,2.0,48,78723
 28,zvSUJ7J2-GcB-2E0W2ICbw,Yager Food Store,2.5,6,78753
-29,ztEZF1u_JJa8fVOLjftgTQ,Mr Gatti's Pizza,2.0,48,78723
-30,a_9mKPr6t2brOXUKm2Q7Nw,Domino's Pizza,2.0,20,78702
-31,vFlvA5JSXBiAK-2WPcBorA,Pizza Hut,1.5,44,78726
-32,cX90zoR1-PQlfgIPUORydQ,Domino's Pizza,3.0,11,78753
-33,ZAyriyRb0psJlPAOpVgSPA,Papa John's Pizza,3.0,7,78752
-34,Mnn1GADjW-aBThveMOXf2A,Mr Gatti's Pizza,2.0,63,78757
-35,5u_zrx0HcyBWxAp1r_5ilw,Domino's Pizza,1.5,40,78741
-36,DzoA4WmoAMKLo4rrxNfRVQ,Pizza Hut,1.5,34,78702
-37,oSgSc5DkIbROamnRvdFQdA,Pizza Hut,1.5,62,78753
-38,OByeJPOz-WEENn1HuMVCtQ,Domino's Pizza,2.5,46,78704
-39,CKfDAKaYis5EoAaKGUA8cw,Domino's Pizza,2.5,27,78753
-40,dXVHhocSRZpn9EWHFPHzfg,Little Caesars Pizza,1.0,4,78753
+29,a_9mKPr6t2brOXUKm2Q7Nw,Domino's Pizza,2.0,20,78702
+30,vFlvA5JSXBiAK-2WPcBorA,Pizza Hut,1.5,44,78726
+31,cX90zoR1-PQlfgIPUORydQ,Domino's Pizza,3.0,11,78753
+32,ZAyriyRb0psJlPAOpVgSPA,Papa John's Pizza,3.0,7,78752
+33,Mnn1GADjW-aBThveMOXf2A,Mr Gatti's Pizza,2.0,63,78757
+34,5u_zrx0HcyBWxAp1r_5ilw,Domino's Pizza,1.5,40,78741
+35,DzoA4WmoAMKLo4rrxNfRVQ,Pizza Hut,1.5,34,78702
+36,oSgSc5DkIbROamnRvdFQdA,Pizza Hut,1.5,62,78753
+37,OByeJPOz-WEENn1HuMVCtQ,Domino's Pizza,2.5,46,78704
+38,CKfDAKaYis5EoAaKGUA8cw,Domino's Pizza,2.5,27,78753
+39,dXVHhocSRZpn9EWHFPHzfg,Little Caesars Pizza,1.0,4,78753
