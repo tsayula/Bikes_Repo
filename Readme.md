@@ -32,13 +32,13 @@ While Austin is a booming metropolis City, we aim to analyze whether a pizza sho
         ![bargraph of all restaurants by price point](https://github.com/tsayula/Bikes_Repo/blob/main/visualizations/pizza_tacos_price.png?raw=true)
        
 *There is a plethora of higher priced pizza shops, compared to taco restaurants.
-
+________________________________________________
 **Step 2: Analyze the ratings of taco shops and pizza shops by the total number of reviews:
         ![horizontal graph of total reviews by rating]<img src="https://github.com/tsayula/Bikes_Repo/blob/main/visualizations/Biz_Rev_Counts_By_Rating.png?raw=true" width="500" height="400">        
        
 *Reviewees of taco shops seem to leave feeback when the experience is average (3 star), whereas patrons of pizza restaurants are more inclined to review
 their experience the better it is (4-5 star).
-
+________________________________________________
 **Step 3: Comparing Austin's taco shops to pizza shops by average rating:   
 ![bargraph comparing total number of each category](https://github.com/tsayula/Bikes_Repo/blob/main/visualizations/Avg_Rtng_by_Category.png?raw=true)
 
@@ -51,7 +51,8 @@ their experience the better it is (4-5 star).
     
 *Taco shops are either rated very well or very poorly, while pizza restaurants are more consistent with reviews to ratings**
 
-
+________________________________________________
+________________________________________________
 
 
 <img src="http://www.austinbike.com/images/sliders/one.jpg" width="300" height="150">
@@ -69,10 +70,9 @@ their experience the better it is (4-5 star).
 
 ## Conclusions
 
-This analysis leads to 3 conclusions:
+This analysis leads to several conclusions:
 
-- **The market for taco restaurants in Austin is tough. People Either love their tacos or hate them. 
--      -The market for pizza parlors is a little more forgiving 
+- **The market for pizza parlors is a little more forgiving 
 - **Pizza patrons are more likely to review their experience to when it is positive, in comparison to taco connouisseurs who rate establishments mostly when the experience is just average (3 stars)
 - **There is market opportunity for opening a higher end pizza parlor, as there are not currently many in existent.
 - 
