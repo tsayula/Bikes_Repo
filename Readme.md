@@ -28,13 +28,15 @@ We evaluated this data by using various combinations of the following metrics:
 
 -Step 1: Comparing the total number of existing taco shops to pizza shops: 
 
--Step 2: Analyze the number of taco shops and pizza shops by average rating:
+-Step 2: Contrast the number of pizza and taco restaurants by their respective price points:
+        ![bargraph of all restaurants by price point](https://github.com/tsayula/Bikes_Repo/blob/main/visualizations/pizza_tacos_price.png?raw=true)
 
--Step 3: Evaluate the total number of observations for each star rating (1-5) by Category (Pizza, Tacos):
+-Step 3: Analyze the number of taco shops and pizza shops by average rating:
+
+-Step 4: Evaluate the total number of observations for each star rating (1-5) by Category (Pizza, Tacos):
         ![histogram of avg ratings by frequency](https://github.com/tsayula/Bikes_Repo/blob/main/visualizations/histogram_ratings.png?raw=true)
 
-
--Step 4: Determine 
+-Step 4: 
 
 
 
@@ -69,7 +71,7 @@ More involved analyses could yield additional insights.
 
 ## For More Information
 
-See the full analysis in the [Jupyter Notebook](./austin_pizza_bikes.ipynb) or review this [InSerT PresentTaton](./HEYinsertMEhere.pdf).
+See the full analysis in the [Jupyter Notebook](./Final_Notebook.ipynb) or review this [InSerT PresentTaton](./HEYinsertMEhere.pdf).
 
 For additional info, contact Mark Rubin or Lera Tsayukova.
 ![Image of Keep Austin Wierd](https://res.cloudinary.com/culturemap-com/image/upload/ar_4:3,c_fill,g_faces:center,w_980/v1521047613/photos/28712_original.jpg)
@@ -77,9 +79,11 @@ For additional info, contact Mark Rubin or Lera Tsayukova.
 ## Repository Structure
 
 ```
-├── data
 ├── images
+├── data
+├── visualizations
+├── Austin_business_analysis.ipynb
 ├── README.md
+└── Final_Notebook.ipynb
 ├── Austin_Presentation.pdf
-└── Austin_Bikes_Pizza_analysis.ipynb
 ```
