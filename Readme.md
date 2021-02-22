@@ -15,13 +15,13 @@ While Austin is a booming metropolis City, we aim to analyze whether a pizza sho
 
 ## Method
 
-*By analyzing data directly from Yelp's API, we were able to collect a data set of 141 Taco shops and 189 Pizza shops.
-*Then we sourced a total of nearly 1,000 reviews combined for both taco and pizza shops.
-**We evaluated this data by using various combinations of the following metrics:
-        -total number of businesses for each category 
-        -average ratings
-        -total number of reviews
-        -price point
+**By analyzing data directly from Yelp's API, we were able to collect a data set of 141 Taco shops and 189 Pizza shops.
+-Then we sourced a total of nearly 1,000 reviews combined for both taco and pizza shops.
+-We evaluated this data by using various combinations of the following metrics: 
+        *total number of businesses for each category
+        *average ratings
+        *total number of reviews
+        *price point
         
 
 ## Data 
