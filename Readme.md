@@ -74,7 +74,7 @@ This analysis leads to several conclusions:
 
 - **The results of our analysis found that in Austin,Texas it would be better to invest in a pizza shop. 
 - **We made this conclusion because the mean value of the Taco business ratings is significantly higher than the mean value of the Pizza business ratings.
-- **As an additional support to our conclusion, our results show that Taco businesses are distributed much less evenly among the ratings scale, and are more centralized between the four and five star ratings. This made us conclude that there was less highly-rated competition in the Pizza market. 
+- **As an additional support to our conclusion, our results show that Taco businesses are distributed much less evenly among the ratings scale, and are more centralized between the four and five star ratings. This brought us to the conclusion that there were less highly-rated businesess to compete against in the Pizza market. 
 - **Pizza patrons are more likely to review their experience to when it is positive, in comparison to taco connouisseurs who rate establishments mostly when the experience is just average (3 stars)
 - **There is market opportunity for opening a higher end pizza parlor, as there are not currently many in existent.
 - 
