@@ -26,7 +26,7 @@ We evaluated this data by using various combinations of the following metrics:
 
 ## Data 
 
--Step 1: Comparing the total number of existing taco shops to pizza shops: 
+-Step 1: Comparing the total number of existing taco shops to pizza shops:
         ![bargraph comparing total number of each category](https://github.com/tsayula/Bikes_Repo/blob/main/visualizations/Avg_Rtng_by_Category.png?raw=true)
 
 -Step 2: Contrast the number of pizza and taco restaurants by their respective price points:
