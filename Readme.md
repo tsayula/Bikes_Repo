@@ -26,16 +26,17 @@ While Austin is a booming metropolis City, we aim to analyze whether a pizza sho
 
 ## Data 
 
--Step 1: Comparing the total number of existing taco shops to pizza shops:
-        ![bargraph comparing total number of each category](https://github.com/tsayula/Bikes_Repo/blob/main/visualizations/Avg_Rtng_by_Category.png?raw=true)
-
--Step 2: Contrast the number of pizza and taco restaurants by their respective price points:
+**Step 1: Comparing the total number of existing taco shops to pizza shops:
+        
+![bargraph comparing total number of each category](https://github.com/tsayula/Bikes_Repo/blob/main/visualizations/Avg_Rtng_by_Category.png?raw=true)
+        
+**Step 2: Contrast the number of pizza and taco restaurants by their respective price points:
         ![bargraph of all restaurants by price point](https://github.com/tsayula/Bikes_Repo/blob/main/visualizations/pizza_tacos_price.png?raw=true)
 
--Step 3: Analyze the ratings of taco shops and pizza shops by the total number of reviews:
+**Step 3: Analyze the ratings of taco shops and pizza shops by the total number of reviews:
         ![horizontal graph of total reviews by rating]<img src="https://github.com/tsayula/Bikes_Repo/blob/main/visualizations/Biz_Rev_Counts_By_Rating.png?raw=true" width="500" height="400">
 
--Step 4: Evaluate the total number of observations for each star rating (1-5) by Category (Pizza, Tacos):
+**Step 4: Evaluate the total number of observations for each star rating (1-5) by Category (Pizza, Tacos):
         ![histogram of avg ratings by frequency](https://github.com/tsayula/Bikes_Repo/blob/main/visualizations/histogram_ratings.png?raw=true)
 
 
@@ -44,11 +45,11 @@ While Austin is a booming metropolis City, we aim to analyze whether a pizza sho
 
 ## Analysis
 
--Many pizza shops in Austin are actually franchised by larger chain restaurants!
-This leaves a niche market in many neighborhoods for a solid local pizza parlor!
-
--There is an abundance of bike shopes in Austin.
-See more insight here
+**The reviews on average are higher for taco restaurants than pizza restaurants.
+**There is a plethora of higher priced pizza shops, compared to taco restaurants.
+**Reviewees of taco shops seem to leave feeback when the experience is average (3 star), whereas patrons of pizza restaurants are more inclined to review
+their experience the better it is (4-5 star).
+**Taco shops are either rated very well or very poorly, while pizza restaurants are more consistent with reviews to ratings.See more insight here
 
 <img src="https://3vi9mx40b3afabx1fqvvhk9e-wpengine.netdna-ssl.com/wp-content/uploads/2020/07/40-North-nor-cal-horizontal.jpg" width="400" height="200">
 
