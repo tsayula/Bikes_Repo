@@ -1,4 +1,4 @@
-![Pizza vs. Bike Shops in Austin](https://upload.wikimedia.org/wikipedia/commons/a/a5/Austin_Evening.jpg)<img src="url" width="100" height="100">
+![Pizza vs. Bike Shops in Austin](https://upload.wikimedia.org/wikipedia/commons/a/a5/Austin_Evening.jpg)
 
 # Austin Business Comparison Analysis
 # Comparing 2 Markets
@@ -33,16 +33,14 @@ While Austin is a booming metropolis City, we aim to analyze whether a pizza sho
         ![bargraph of all restaurants by price point](https://github.com/tsayula/Bikes_Repo/blob/main/visualizations/pizza_tacos_price.png?raw=true)
 
 -Step 3: Analyze the ratings of taco shops and pizza shops by the total number of reviews:
-        ![horizontal graph of total reviews by rating](https://github.com/tsayula/Bikes_Repo/blob/main/visualizations/Biz_Rev_Counts_By_Rating.png?raw=true)
+        ![horizontal graph of total reviews by rating]<img src="https://github.com/tsayula/Bikes_Repo/blob/main/visualizations/Biz_Rev_Counts_By_Rating.png?raw=true" width="500" height="400">
 
 -Step 4: Evaluate the total number of observations for each star rating (1-5) by Category (Pizza, Tacos):
         ![histogram of avg ratings by frequency](https://github.com/tsayula/Bikes_Repo/blob/main/visualizations/histogram_ratings.png?raw=true)
 
 
 
-
-
-<img src="http://www.austinbike.com/images/sliders/one.jpg" width="400" height="200">
+<img src="http://www.austinbike.com/images/sliders/one.jpg" width="300" height="150">
 
 ## Analysis
 
