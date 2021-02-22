@@ -13,12 +13,26 @@ the cities small business alliance [Austin Indepedent Business Alliance](https:/
 
 
 
-While Austin is a booming metropolis City, we aim to analyze whether a pizza shop or a bike shop would be more lucrative!
+While Austin is a booming metropolis City, we aim to analyze whether a pizza shop or a taco shop would be more lucrative!
 
 ## Data
 
-The data compares the the number of bikes shops and pizza restaurants by zipcodes and ratings,
+The data compares the the number of taco shops and pizza restaurants by ratings,
 in order to determine if there is an opporunity for either.
+
+### Analysis: 
+
+-Step 1: Comparing the total number of existing taco shops to pizza shops: 
+
+-Step 2: Analyze the number of taco shops and pizza shops by average rating:
+
+-Step 3: Evaluate the total number of observations for each star rating (1-5) by Category (Pizza, Tacos):
+
+
+
+-Step 4: Determine 
+
+
 
 <img src="http://www.austinbike.com/images/sliders/one.jpg" width="400" height="200">
 
@@ -28,7 +42,7 @@ in order to determine if there is an opporunity for either.
 This leaves a niche market in many neighborhoods for a solid local pizza parlor!
 
 -There is an abundance of bike shopes in Austin.
-Some more insight here
+See more insight here
 
 <img src="https://3vi9mx40b3afabx1fqvvhk9e-wpengine.netdna-ssl.com/wp-content/uploads/2020/07/40-North-nor-cal-horizontal.jpg" width="400" height="200">
 
