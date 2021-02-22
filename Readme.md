@@ -1,4 +1,4 @@
-![Pizza vs. Bike Shops in Austin](https://upload.wikimedia.org/wikipedia/commons/a/a5/Austin_Evening.jpg)<img src="url" alt="alt text" width="100" height="100">
+![Pizza vs. Bike Shops in Austin](https://upload.wikimedia.org/wikipedia/commons/a/a5/Austin_Evening.jpg)<img src="url" width="100" height="100">
 
 # Austin Business Comparison Analysis
 # Comparing 2 Markets
@@ -27,7 +27,7 @@ in order to determine if there is an opporunity for either.
 -Step 2: Analyze the number of taco shops and pizza shops by average rating:
 
 -Step 3: Evaluate the total number of observations for each star rating (1-5) by Category (Pizza, Tacos):
-
+        ![histogram of avg ratings by frequency](https://github.com/tsayula/Bikes_Repo/blob/main/visualizations/histogram_ratings.png?raw=true)
 
 
 -Step 4: Determine 
