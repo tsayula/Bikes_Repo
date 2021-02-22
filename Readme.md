@@ -32,13 +32,13 @@ We evaluated this data by using various combinations of the following metrics:
 -Step 2: Contrast the number of pizza and taco restaurants by their respective price points:
         ![bargraph of all restaurants by price point](https://github.com/tsayula/Bikes_Repo/blob/main/visualizations/pizza_tacos_price.png?raw=true)
 
--Step 3: Analyze the number of taco shops and pizza shops by average rating:
-        
+-Step 3: Analyze the ratings of taco shops and pizza shops by the total number of reviews:
+        ![horizontal graph of total reviews by rating](https://github.com/tsayula/Bikes_Repo/blob/main/visualizations/Biz_Rev_Counts_By_Rating.png?raw=true)
 
 -Step 4: Evaluate the total number of observations for each star rating (1-5) by Category (Pizza, Tacos):
         ![histogram of avg ratings by frequency](https://github.com/tsayula/Bikes_Repo/blob/main/visualizations/histogram_ratings.png?raw=true)
 
--Step 4: 
+
 
 
 
