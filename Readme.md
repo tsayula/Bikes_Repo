@@ -1,4 +1,4 @@
-![Pizza vs. Bike Shops in Austin](https://upload.wikimedia.org/wikipedia/commons/a/a5/Austin_Evening.jpg)<img src="url" alt="alt text" width="100" height="100">
+![Pizza vs. Bike Shops in Austin](https://upload.wikimedia.org/wikipedia/commons/a/a5/Austin_Evening.jpg)<img src="url" width="100" height="100">
 
 # Austin Business Comparison Analysis
 # Comparing 2 Markets
@@ -11,23 +11,27 @@
 This project aims to analyzes the local business needs of the great city of Austin, Texas, whos local slogan "Keep Austin Weird" was inspired by
 the cities small business alliance [Austin Indepedent Business Alliance](https://ibuyaustin.com) to promote small businesses!
 
-
-
 While Austin is a booming metropolis City, we aim to analyze whether a pizza shop or a taco shop would be more lucrative!
 
-## Data
+## Method
 
-The data compares the the number of taco shops and pizza restaurants by ratings,
-in order to determine if there is an opporunity for either.
+By analyzing data directly from Yelp's API, we were able to collect a data set of 141 Taco shops and 189 Pizza shops.
+Then we sourced a total of nearly 1,000 reviews combined for both taco and pizza shops.
+We evaluated this data by using various combinations of the following metrics:
+        -total number of businesses for each category 
+        -average ratings
+        -total number of reviews
+        -price point
+        
 
-### Analysis: 
+## Data 
 
 -Step 1: Comparing the total number of existing taco shops to pizza shops: 
 
 -Step 2: Analyze the number of taco shops and pizza shops by average rating:
 
 -Step 3: Evaluate the total number of observations for each star rating (1-5) by Category (Pizza, Tacos):
-
+        ![histogram of avg ratings by frequency](https://github.com/tsayula/Bikes_Repo/blob/main/visualizations/histogram_ratings.png?raw=true)
 
 
 -Step 4: Determine 
@@ -36,7 +40,7 @@ in order to determine if there is an opporunity for either.
 
 <img src="http://www.austinbike.com/images/sliders/one.jpg" width="400" height="200">
 
-## Results
+## Analysis
 
 -Many pizza shops in Austin are actually franchised by larger chain restaurants!
 This leaves a niche market in many neighborhoods for a solid local pizza parlor!
