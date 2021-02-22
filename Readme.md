@@ -26,7 +26,7 @@ While Austin is a booming metropolis City, we aim to analyze whether a pizza sho
 
 ## Data 
 
-**Step 1: Comparing the total number of existing taco shops to pizza shops:
+**Step 1: Comparing the total number of existing taco shops to pizza shops by average rating:
         
 ![bargraph comparing total number of each category](https://github.com/tsayula/Bikes_Repo/blob/main/visualizations/Avg_Rtng_by_Category.png?raw=true)
         
